@@ -99,10 +99,10 @@
 // 9-masala
 
  let str = 'laylo'
- function name(){
+ function str(laylo){
      return str [0] === 'l' ? str : `"L" + ${str}`
  }
- console.log(name())
+ console.log(str (laylo))
 }
 
 {
