@@ -115,7 +115,7 @@
  }
  return total
  }
- console.log(text(salom,3));
+ console.log(total);
 }
 
 {
